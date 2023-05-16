@@ -2,13 +2,28 @@
 .form-group{
 	
 }
+table{
+	margin:10px;
+}
+th{
+/* 	padding:10px 10px; */
+	width:50%;
+}
+#span{
+	color:blue;
+}
+p{
+	font-size:20px;
+	font-weight:30px;
+}
 input[type="text"]{
 	border:1px solid black;
 	size:50;
 	
 }
 button[type="button"]{
-    background-color: dodgerblue;
+    background-color: MediumBlue;
+	color:white;
     
     
 
